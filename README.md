@@ -28,10 +28,6 @@
  **ReSukiSU team** — ReSukiSU
  
  **simonpunk** — susfs4ksu patches
- 
- **WildKernels** — reference CI and release patterns
- 
- Xiaomi/MIUI kernel source maintainers
 
 ---
 
