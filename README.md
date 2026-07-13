@@ -9,7 +9,7 @@
 [![ReSukiSU](https://img.shields.io/badge/ReSukiSU-Supported-4CAF50?logo=linux&logoColor=white)](https://github.com/ReSukiSU/ReSukiSU)
 [![SUSFS](https://img.shields.io/badge/SUSFS-v2.2.0-FF6D00?logo=gitlab&logoColor=white)](https://gitlab.com/simonpunk/susfs4ksu)
 [![Device](https://img.shields.io/badge/Device-Poco_F4GT_%2F_RedmiK50G-EF5350)](https://github.com/Ingres-Centre/android_kernel_xiaomi_sm8450)
-[![ROM](https://img.shields.io/badge/ROM-Stock_HyperOS_Only-FF6900)](https://www.mi.com/global/hyperos/)
+[![ROM](https://img.shields.io/badge/ROM-AOSP_A16_Only-FF6900)](https://www.mi.com/global/hyperos/)
 
 </div>
 <div align="center">
