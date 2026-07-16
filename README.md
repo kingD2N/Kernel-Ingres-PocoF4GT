@@ -29,6 +29,11 @@
  
  **simonpunk** — susfs4ksu patches
 
+**Special thanks to @Yudharn  
+**@Mahdi_48111 @itzParsaYC @n08i40k, @Rafaelgh, NothingHere69, ArianK16a, 
+**Ingres-Centre team, swiitchOFF, Pong-Development, AOSP-Lineage Team & community
+ 
+
 ---
 
 <div align="center">
